@@ -2,7 +2,7 @@
 
 * [正誤と参考情報の一覧](https://github.com/LambdaNote/errata-voyagebook-1-1/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc)
 
-* [出版者による書籍ページ](https://www.lambdanote.com/products/voyagebook)
+* [出版者による書籍ページ](https://www.lambdanote.com/products/engineers-in-voyage)
 
 ## Contribution
 
